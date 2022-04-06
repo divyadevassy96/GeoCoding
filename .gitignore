@@ -1,0 +1,14 @@
+__pycache__/
+__pycache__/*
+media/
+**/migrations/*
+**/migrations/**
+!**/migrations
+*.pyc
+!**/migrations/__init__.py
+**/migrations/
+.idea/
+worklog
+.env
+db.sqlite3
+geocoding-env/
